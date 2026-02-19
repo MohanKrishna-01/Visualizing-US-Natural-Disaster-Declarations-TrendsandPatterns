@@ -1,6 +1,6 @@
 ## Nakka Hitesh Nag Reddy
 ## Basic Information
-- College: Raghu Engineering College
+- College: Raghu Engineering College, Visakhapatnam
 - Branch : Computer Science Engineering With Specialization in Data Science
 - Year   : 4th Year
 - Batch  : 11
